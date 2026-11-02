@@ -1,0 +1,8 @@
+build/
+*.log
+*.log.old
+*.dmp
+*.obj
+*.res
+*.pdb
+*.ilk

@@ -1,8 +1,0 @@
-/* resource.rc */
-#include <windows.h>
-
-/* App icon (ID 1 = IDI_APP in mytoolkit.c) */
-1 ICON "app.ico"
-
-/* UAC manifest */
-1 RT_MANIFEST "app.manifest"
